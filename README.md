@@ -1,4 +1,3 @@
-# Subway-Surfers-Pose-Control-Game-Computer-Vision-
 # 🎮 Subway Surfers Pose-Control Game (Computer Vision)
 
 Control **Subway Surfers** using **your body movements** with real-time **pose detection** using OpenCV and MediaPipe.
@@ -72,19 +71,20 @@ python subway_pose_control.py
 | Roll        | Crouch            |
 
 ⚠️ Notes
-Ensure Subway Surfers is focused on screen
-Webcam must be clearly facing your upper body
-Lighting affects pose accuracy
-Tested on Windows
+-Ensure Subway Surfers is focused on screen
+-Webcam must be clearly facing your upper body
+-Lighting affects pose accuracy
+-Tested on Windows
 
 📌 Future Improvements
-Gesture smoothing
-Calibration screen
-FPS optimization
-Multiple player support
+-Gesture smoothing
+-Calibration screen
+-FPS optimization
+-Multiple player support
 
+---
 👤 Author
 Arnab Datta
-Computer Vision & Python Enthusiast 🚀
+-Computer Vision & Python Enthusiast 🚀
 
 ⭐ If you like this project, give it a star!
